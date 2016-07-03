@@ -1,0 +1,9 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["Aleksandr Oksenenko <crew4ok@gmail.com>"]
+
+[dependencies]
+
+[dependencies.mio]
+git = "https://github.com/carllerche/mio"
