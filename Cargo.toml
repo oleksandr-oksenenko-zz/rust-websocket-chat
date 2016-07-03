@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Aleksandr Oksenenko <crew4ok@gmail.com>"]
 
 [dependencies]
+http-muncher = "0.2"
+rustc-serialize = "0.3"
+sha1 = "0.1"
 
 [dependencies.mio]
 git = "https://github.com/carllerche/mio"
